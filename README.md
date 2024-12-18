@@ -1,5 +1,5 @@
   # 💫 About Me:
-👨‍💻 Forntend Web Developer ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 🚀 Crafting digital experiences with code! Passionate about building excellent sites.
+👨‍💻 Forntend Web Developer 🚀 Crafting digital experiences with code! Passionate about building excellent sites.
 
 
 ## 🌐 Socials:
